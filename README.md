@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=llucas890" alt="llucas890" /></a> </p>
 
-- 🔭 I’m currently working on **Argentina Programa 4.0**
+- 🔭 I’m currently working as a **Freelance**
 
-- 🌱 I’m currently mastering **Angular, Django, VueJs**
+- 🌱 I’m currently mastering **Angular, Django, React, PHP**
 
 - 👯 I’m looking to collaborate on **any open source project**
 
