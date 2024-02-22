@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as a **Freelance**
 
-- 🌱 I’m currently mastering **Angular, Django, React, PHP**
+- 🌱 I’m currently mastering **Angular, Django, React, Laravel**
 
 - 👯 I’m looking to collaborate on **any open source project**
 
